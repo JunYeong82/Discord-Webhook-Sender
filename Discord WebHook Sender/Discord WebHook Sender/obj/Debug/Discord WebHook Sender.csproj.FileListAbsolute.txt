@@ -1,0 +1,19 @@
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.exe.config
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.exe
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.pdb
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord_WebHook_Sender.Form1.resources
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord_Webhook_Sender.Properties.Resources.resources
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord WebHook Sender.csproj.GenerateResource.cache
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord WebHook Sender.csproj.CoreCompileInputs.cache
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.exe
+C:\Users\aprkx\source\repos\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.pdb
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.exe.config
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.exe
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\bin\Debug\Discord Webhook Sender.pdb
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.csproj.AssemblyReference.cache
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord_WebHook_Sender.Form1.resources
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord_Webhook_Sender.Properties.Resources.resources
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.csproj.GenerateResource.cache
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.exe
+E:\Coding\C#\Discord WebHook Sender\Discord WebHook Sender\obj\Debug\Discord Webhook Sender.pdb
